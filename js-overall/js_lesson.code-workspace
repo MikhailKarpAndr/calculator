@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../Задания C"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "js_lesson"
+  }
+}
